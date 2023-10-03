@@ -12,7 +12,7 @@ theme-color: pink # indigo|yellow|pink|green|stone|
 # homepage information
 author: Philip Jensen
 author-bio: Art Director by day, TTRPG Creator by Night  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author-image: pinkphilbored.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
