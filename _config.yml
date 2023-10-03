@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
 baseurl: "/TTRPG" # the name of your github repo
-url: "https://philip007.github.io/TTRPG-maker-space" # the url of your github pages
+url: "https://philip007.github.io/TTRPG/" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "The TTRPG Maker Space"
